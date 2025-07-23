@@ -5,3 +5,4 @@ pymupdf
 chromadb
 langchain
 python-dotenv
+sentence-transformers
