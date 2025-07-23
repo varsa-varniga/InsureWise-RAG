@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Local ChromaDB storage
+chroma/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code config
+.vscode/
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# PyInstaller
+*.spec
